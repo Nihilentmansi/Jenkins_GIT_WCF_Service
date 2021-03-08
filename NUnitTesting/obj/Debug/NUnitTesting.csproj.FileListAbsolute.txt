@@ -1,0 +1,10 @@
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\bin\Debug\ApplicationInsights.config
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\bin\Debug\NUnitTesting.dll
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\bin\Debug\NUnitTesting.pdb
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\bin\Debug\nunit.framework.dll
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\bin\Debug\WCF_Service.dll
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\bin\Debug\WCF_Service.pdb
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\bin\Debug\nunit.framework.xml
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\obj\Debug\NUnitTesting.csprojResolveAssemblyReference.cache
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\obj\Debug\NUnitTesting.dll
+c:\users\mansi\documents\visual studio 2015\Projects\WCF_Service\NUnitTesting\obj\Debug\NUnitTesting.pdb
